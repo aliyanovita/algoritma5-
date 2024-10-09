@@ -2,7 +2,7 @@
 // mmbuat fungsi
 function perkenalan(){
   echo "Assalamulaikum, ";
-  echo "Perkenalkan, nama kita Ahmadi<br/>";
+  echo "Perkenalkan, nama kita Aliya<br/>";
   echo "Senang berkenalan dengan anda<br/>";
 }
 // memanggil fungsi yang sudah dibuat
@@ -12,5 +12,4 @@ echo "<hr>";
 // memanggilnya lagi
 perkenalan();
 ?>
-
-echo "<p><strong>by:aliya novita"
+ <p><strong>by:aliya novita"
